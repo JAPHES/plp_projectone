@@ -1,0 +1,1 @@
+print("jambo tanzania,,how are people doing there")
